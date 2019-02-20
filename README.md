@@ -1,2 +1,1 @@
-# contact-manager
-React/Redux App
+# Contact Manager
